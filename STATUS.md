@@ -18,7 +18,7 @@
 - G: Debugging log documented in answers.pdf
 
 ## In progress
-- Final review of answers.pdf formatting
+done
 
 ## Stuck on
 - None
